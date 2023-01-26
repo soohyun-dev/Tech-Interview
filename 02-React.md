@@ -22,3 +22,11 @@
 <li>CSS-in-JS의 장단점에 대해 설명해주세요.</li>
 </ul>
 </details>
+
+<details>
+  <summary><h3>props에 대해 설명해주세요.</h3></summary>
+<ul>
+<li>props drilling의 장단점에 대해 설명해주세요.</li>
+<li>props drilling의 해결방법은 어떤것이 있죠?</li>
+</ul>
+</details>
