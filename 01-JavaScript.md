@@ -37,7 +37,7 @@
 </details>
 
 <details>
-  <summary><h3>forEach, map, filter, reduce에 대해간단히 설명해주세요.</h3></summary>
+  <summary><h3>forEach, map, filter, reduce에 대해 간단히 설명해주세요.</h3></summary>
 </details>
 
 <details>
